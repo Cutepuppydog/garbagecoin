@@ -1,4 +1,4 @@
-Litecoin Core integration/staging tree
+Garbagecoin Core integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
@@ -8,19 +8,18 @@ https://litecoin.org
 What is Litecoin?
 ----------------
 
-Litecoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Litecoin uses peer-to-peer technology to operate
+Garbagecoin is an awesome digital currency that enables instant payments to
+anyone, anywhere in the world. Garbagecoin uses technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Litecoin Core is the name of open source
+out collectively by this thing. Garbagecoin Core is the name of open source
 software which enables the use of this currency.
 
-For more information, as well as an immediately useable, binary version of
-the Litecoin Core software, see [https://litecoin.org](https://litecoin.org).
+For more information, see https://sites.google.com/view/garbagecoin/home.
 
 License
 -------
 
-Litecoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Garbagecoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
@@ -30,11 +29,7 @@ The `master` branch is regularly built (see `doc/build-*.md` for instructions) a
 completely stable. [Tags](https://github.com/litecoin-project/litecoin/tags) are created
 regularly from release branches to indicate new official, stable release versions of Litecoin Core.
 
-The https://github.com/litecoin-project/gui repository is used exclusively for the
-development of the GUI. Its master branch is identical in all monotree
-repositories. Release branches and tags do not exist, so please do not fork
-that repository unless it is for development reasons.
-
+The https://github.com/garbagecoin-project/ does not exist
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
 and useful hints for developers can be found in [doc/developer-notes.md](doc/developer-notes.md).
 
@@ -42,7 +37,7 @@ The developer [mailing list](https://groups.google.com/forum/#!forum/litecoin-de
 should be used to discuss complicated or controversial changes before working
 on a patch set.
 
-Developer IRC can be found on Freenode at #litecoin-dev.
+Developer IRC can be found on Freenode at #garbagecoin-dev.
 
 Testing
 -------
@@ -67,16 +62,14 @@ The Travis CI system makes sure that every pull request is built for Windows, Li
 
 ### Manual Quality Assurance (QA) Testing
 
-Changes should be tested by somebody other than the developer who wrote the
-code. This is especially important for large or high-risk changes. It is useful
-to add a test plan to the pull request description if testing the changes is
-not straightforward.
+Please buy I want it to go to the moon pls buy
+
 
 Translations
 ------------
 
 We only accept translation fixes that are submitted through [Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
-Translations are converted to Litecoin periodically.
+Translations are converted to Garbagecoin periodically.
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the
 [translation process](doc/translation_process.md) for details on how this works.
