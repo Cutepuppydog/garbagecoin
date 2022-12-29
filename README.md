@@ -3,9 +3,8 @@ Garbagecoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
 
-https://litecoin.org
-
-What is Litecoin?
+https://sites.google.com/view/garbagecoin/home
+What is Garbagecoin?
 ----------------
 
 Garbagecoin is an awesome digital currency that enables instant payments to
